@@ -3,4 +3,10 @@
     <string name="form_title">Daftar Komunitas Kucing</string>
     <string name="form_subtitle">Silakan isi data diri Anda di bawah ini !!!</string>
     <string name="cd_header">Gambar header komunitas kucing</string>
+    <string name="label_nama_depan">Nama Depan</string>
+    <string name="label_nama_belakang">Nama Belakang</string>
+    <string name="label_email">Email</string>
+    <string name="label_tgl_lahir">Tgl Lahir</string>
+    <string name="cd_pilih_tanggal">Pilih tanggal</string>
+    <string name="format_tanggal">dd/MM/yyyy</string>
 </resources>
