@@ -12,4 +12,7 @@
     <dimen name="spacing_small">8dp</dimen>
     <dimen name="spacing_field">16dp</dimen>
     <dimen name="spacing_section">24dp</dimen>
+
+    <dimen name="elevation_form">12dp</dimen>
+    <dimen name="button_height">56dp</dimen>
 </resources>
