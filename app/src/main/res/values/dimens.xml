@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_height">280dp</dimen>
+    <dimen name="form_top_offset">190dp</dimen>
+    <dimen name="form_bottom_margin">48dp</dimen>
+    <dimen name="corner_form">28dp</dimen>
+    <dimen name="corner_field">24dp</dimen>
+    <dimen name="corner_button">16dp</dimen>
+</resources>
