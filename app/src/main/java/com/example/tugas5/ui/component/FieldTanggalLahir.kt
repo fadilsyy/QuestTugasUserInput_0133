@@ -3,8 +3,6 @@ package com.example.tugas5.ui.component
 import androidx.compose.foundation.interaction.MutableInteractionSource
 import androidx.compose.foundation.interaction.PressInteraction
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.DateRange
 import androidx.compose.material3.DatePicker
 import androidx.compose.material3.DatePickerDialog
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -21,6 +19,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.dimensionResource
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import com.example.tugas5.R
 import java.time.Instant
@@ -52,7 +51,7 @@ fun FieldTanggalLahir(
         label = { Text(text = stringResource(R.string.label_tgl_lahir)) },
         trailingIcon = {
             Icon(
-                imageVector = Icons.Default.DateRange,
+                painter = painterResource(R.drawable.ic_calendar),
                 contentDescription = stringResource(R.string.cd_pilih_tanggal)
             )
         },
