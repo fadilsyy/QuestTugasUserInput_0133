@@ -5,6 +5,8 @@ import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.Alignment
+import com.example.tugas5.ui.component.HeaderImage
 
 @Composable
 fun FormKomunitasScreen(
