@@ -22,4 +22,11 @@
         <item>Rescue</item>
         <item>Grooming</item>
     </string-array>
+    <string name="tombol_daftar">Daftar</string>
+    <string name="dialog_judul">Pendaftaran Berhasil</string>
+    <string name="dialog_isi">Nama: %1$s %2$s\nEmail: %3$s\nTgl Lahir: %4$s\nPengalaman: %5$s\nMinat: %6$s</string>
+    <string name="dialog_tutup">Tutup</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_batal">Batal</string>
+    <string name="pemisah_minat">", "</string>
 </resources>
