@@ -10,4 +10,11 @@
     <color name="purple_primary">#FF6A35B8</color>
     <color name="text_primary">#FF1C1B1F</color>
     <color name="text_secondary">#FF6B6B6B</color>
+    <color name="surface_form">#FFFFFFFF</color>
+    <color name="scaffold_bg">#FFF2F2F2</color>
+    <color name="button_text">#FFFFFFFF</color>
+    <color name="field_border">#FF49454F</color>
+    <color name="field_label">#FF3C3C3C</color>
+    <color name="button_disabled_bg">#FFE0E0E0</color>
+    <color name="button_disabled_text">#FFFAFAFA</color>
 </resources>
